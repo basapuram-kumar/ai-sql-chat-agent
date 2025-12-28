@@ -1,0 +1,6 @@
+langchain
+mysql-connector-python
+streamlit
+pathlib
+langchain_classic
+sqlalchemy
